@@ -4,3 +4,5 @@
 - instalar dependencias cliente. Desde terminal en carpeta cliente npm i.
 - Arrancar server. En carpeta server desde terminal nodemon  index.js
 - Arrancar cliente. En carpeta cliente desde terminal npm start
+
+video: https://www.youtube.com/watch?v=E0Y5CqtZaZQ&feature=youtu.be
