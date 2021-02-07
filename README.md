@@ -6,3 +6,9 @@
 - Arrancar cliente. En carpeta cliente desde terminal npm start
 
 video: https://www.youtube.com/watch?v=E0Y5CqtZaZQ&feature=youtu.be
+
+![](fotos/1.jpg)
+![](fotos/2.jpg)
+![](fotos/3.jpg)
+![](fotos/4.jpg)
+![](fotos/5.jpg)
